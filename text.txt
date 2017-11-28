@@ -33,3 +33,7 @@ i moze uda siê po³¹czyc
 
 
 po³¹czylem sie jadê dalej
+
+========================
+
+teraz testy ze zdalnym repozytorium
