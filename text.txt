@@ -1,35 +1,9 @@
- itam cos ta
-m
 
-dorzucone dwa dziwne pliki
-
-
-
-
-
-no i jeszcze inne zmiany
-
-
-cos do schwka
-
-
->>>>>>> 
 
 tutaj dodajemy cos do brancha
 
 
 ###################
 
-mamy teraz trzeci branch
 
-
-===============================
-
-zaczynamy od nowa
-
-i moze uda siê po³¹czyc
-
-==============================
-
-
-po³¹czylem sie jadê dalej
+czyszczenie czesci pliku
